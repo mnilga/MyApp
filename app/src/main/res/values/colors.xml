@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorPrimaryStyle1">#3F51B5</color>
+    <color name="colorPrimaryDarkStyle1">#303F9F</color>
+    <color name="colorAccentStyle1">#FF4081</color>
+    <color name="textColorStyle1">#ffffff</color>
+    <color name="textColorHintStyle1">#dddddd</color>
+
+
+    <color name="colorPrimaryStyle2">#607D8B</color>
+    <color name="colorPrimaryDarkStyle2">#455A64</color>
+    <color name="colorPrimaryLightStyle2">#CFD8DC</color>
+    <color name="colorAccentStyle2">#FF9800</color>
+    <color name="textColorStyle2">#212121</color>
+    <color name="textColorHintStyle2">#757575</color>
+    <color name="iconsStyle2">#FFFFFF</color>
+    <color name="dividerStyle2">#BDBDBD</color>
+
+
+    <color name="colorPrimaryStyle3">#FF9800</color>
+    <color name="colorPrimaryDarkStyle3">#F57C00</color>
+    <color name="colorPrimaryLightStyle3">#FFE0B2</color>
+    <color name="colorAccentStyle3">#FF5722</color>
+    <color name="textColorStyle3">#212121</color>
+    <color name="textColorHintStyle3">#757575</color>
+    <color name="iconsStyle3">#212121</color>
+    <color name="dividerStyle3">#BDBDBD</color>
+
+    <color name="lightGray">#dddddd</color>
+    <color name="groundFab">#aa000000</color>
+</resources>

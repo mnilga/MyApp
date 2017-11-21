@@ -1,0 +1,140 @@
+{
+  "project_info": {
+    "project_number": "502646692140",
+    "firebase_url": "https://mybannerexample.firebaseio.com",
+    "project_id": "mybannerexample",
+    "storage_bucket": "mybannerexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502646692140:android:f96aba20c1c0173e",
+        "android_client_info": {
+          "package_name": "com.example.masha.mybannerexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502646692140-kfdlbd0rcuasmo0e51dtkp8p03fo09ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDErWwbGh0_YVFT4-4t_0gBBuSLCZWmvGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502646692140:android:a0fbf344346034a2",
+        "android_client_info": {
+          "package_name": "com.maria.nilga.mashapush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502646692140-kfdlbd0rcuasmo0e51dtkp8p03fo09ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDErWwbGh0_YVFT4-4t_0gBBuSLCZWmvGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502646692140-kfdlbd0rcuasmo0e51dtkp8p03fo09ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502646692140:android:86cf16879dbc94e5",
+        "android_client_info": {
+          "package_name": "com.mnilga.mypush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502646692140-kfdlbd0rcuasmo0e51dtkp8p03fo09ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDErWwbGh0_YVFT4-4t_0gBBuSLCZWmvGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502646692140:android:376473d55ac6f1b4",
+        "android_client_info": {
+          "package_name": "com.maria.nilga.dog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502646692140-kfdlbd0rcuasmo0e51dtkp8p03fo09ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDErWwbGh0_YVFT4-4t_0gBBuSLCZWmvGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,71 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlNormal">#c5c5c5</item>
+        <item name="colorControlActivated">@color/lightGray</item>
+        <item name="colorControlHighlight">@color/lightGray</item>
+        <item name="android:textColor">@android:color/white</item>
+
+        <item name="colorPrimaryDark">@android:color/black</item>
+    </style>
+
+
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:windowBackground">@drawable/back_splash</item>
+    </style>
+
+    <style name="CardViewMediaLibraryStyle" parent="Theme.AppCompat.Light">
+        <item name="cardCornerRadius">3dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@android:color/white</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <style name="AppTheme1" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryStyle1</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkStyle1</item>
+        <item name="colorAccent">@color/colorAccentStyle1</item>
+        <item name="android:textColor">@color/textColorStyle1</item>
+    </style>
+
+    <style name="AppTheme2" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryStyle2</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkStyle2</item>
+        <item name="colorAccent">@color/colorAccentStyle2</item>
+        <item name="android:textColor">@color/textColorStyle2</item>
+    </style>
+
+    <style name="AppTheme3" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryStyle3</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkStyle3</item>
+        <item name="colorAccent">@color/colorAccentStyle3</item>
+        <item name="android:textColor">@color/textColorStyle3</item>
+    </style>
+
+
+    <style name="WhiteEditText">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textColorHint">@color/lightGray</item>
+    </style>
+
+
+    <style name="AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"></style>
+
+    <style name="PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--<style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />-->
+</resources>
